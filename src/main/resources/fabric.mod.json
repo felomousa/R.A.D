@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "rad",
+  "version": "${version}",
+  "name": "R.A.D",
+  "description": "Real-time Avatar Display (R.A.D) sends Minecraft health data to a webserver, showing it on a Raspberry Pi LED matrix",
+  "authors": [
+    "Felo Mousa"
+  ],
+  "contact": {
+    "website": "https://felomousa.com",
+    "repo": "https://github.com/felomousa/R.A.D"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/rad/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.felomousa.rad.client.radclient"
+    ],
+    "main": [
+      "com.felomousa.rad.rad"
+    ]
+  },
+  "mixins": [
+    "rad.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

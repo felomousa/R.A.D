@@ -1,0 +1,4 @@
+/difficulty peaceful
+/gamemode creative
+/gms
+/gamemode survival
