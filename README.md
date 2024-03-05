@@ -1,4 +1,4 @@
-# Real Time Avatar Display (RAD) Mod 1.0.0 🌟
+# Real Time Avatar Display (RAD) Mod 1.0.0 💖
 
 Welcome to RAD (Real Time Avatar Display), where your Minecraft health jumps out of the screen and into the real world! This project combines the thrill of Minecraft with the hands-on fun of Raspberry Pi and LED displays. Perfect for gamers, makers, and anyone in between.
 
