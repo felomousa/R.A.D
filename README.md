@@ -2,6 +2,9 @@
 
 Welcome to RAD (Real Time Avatar Display), where your Minecraft health jumps out of the screen and into the real world! This project combines the thrill of Minecraft with the hands-on fun of Raspberry Pi and LED displays. Perfect for gamers, makers, and anyone in between.
 
+
+![IMG](https://github.com/felomousa/R.A.D/assets/149443735/10891976-59bf-4817-855f-8574e1e70712)
+
 ## Features 🎮
 
 - **Real-Time Health Tracking**: Keeps an eye on your health bar so you don't have to.
@@ -47,9 +50,6 @@ Welcome to RAD (Real Time Avatar Display), where your Minecraft health jumps out
 4. **Play Minecraft and Watch**:
    - As you play, watch your health status update live on the LED matrix!
 
-###SHOWCASE
-
-![IMG](https://github.com/felomousa/R.A.D/assets/149443735/10891976-59bf-4817-855f-8574e1e70712)
 
 
 
